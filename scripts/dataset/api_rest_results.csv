@@ -1,4 +1,4 @@
-type_query,graphql_time,graphql_size
+type_query,rest_time,rest_size
 1,0.5809454917907715,25063
 1,0.5040798187255859,25063
 1,0.48398637771606445,25063
