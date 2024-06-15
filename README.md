@@ -1,4 +1,4 @@
-# GrafhQL vs REST: Um Experimento Controlado
+# GraphQL vs REST: Um Experimento Controlado
 
 
 ## Desenho do Experimento
