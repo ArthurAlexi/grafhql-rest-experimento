@@ -1,4 +1,4 @@
-# GraphQL vs REST: Um Experimento Controlado
+![image](https://github.com/ArthurAlexi/graphql-rest-experimento/assets/83794498/25158278-e367-40b8-9282-4538a28f8a88)# GraphQL vs REST: Um Experimento Controlado
 
 
 ## Desenho do Experimento
@@ -92,8 +92,16 @@ Velocidade (bytes/segundo) | <img  src="https://github.com/ArthurAlexi/graphql-r
 Tamanho (bytes) | <img  src="https://github.com/ArthurAlexi/graphql-rest-experimento/assets/90854173/f9d05740-f80a-4555-9132-1e6cc7645996" alt="" align="left" height="250" width="auto"> |
 Velocidade (bytes/segundo) | <img  src="https://github.com/ArthurAlexi/graphql-rest-experimento/assets/90854173/73f83598-6ac1-4525-b157-6d8031b09dc0" alt="" align="230" height="auto" width="auto">|
 
+
+
+### Query 4:
+
+|||
+|:-:|:-:|
+| Tempo (segundos) | <img  src="https://github.com/ArthurAlexi/graphql-rest-experimento/assets/83794498/9b714fa3-e706-4a61-87b1-d6c701ad0965" alt="" align="left" height="250"  width="auto"> | 
+Tamanho (bytes) | <img  src="https://github.com/ArthurAlexi/graphql-rest-experimento/assets/83794498/33c9fefb-6a89-4d54-b18a-eb4fdad14471" alt="" align="left" height="250" width="auto"> |
+Velocidade (bytes/segundo) | <img  src="https://github.com/ArthurAlexi/graphql-rest-experimento/assets/83794498/4996d1cc-a9da-43ce-a8dd-33599618db7a" alt="" align="230" height="auto" width="auto">|
+___
 ## Conclusão
 
 Com base nos dados observados nas tabelas anteriores, podemos concluir que a API GraphQL apresenta várias vantagens significativas em relação à API REST. Além da flexibilidade oferecida pela GraphQL, que permite aos usuários decidir exatamente quais tabelas e campos serão retornados em uma consulta, a análise quantitativa revelou que as respostas da API GraphQL também são mais eficientes em termos de velocidade. Especificamente, a API GraphQL demonstrou uma maior taxa de transferência de dados, medida em bytes por segundo, indicando uma performance superior em termos de tempo de resposta e eficiência no uso da largura de banda. Esses benefícios tornam a GraphQL uma alternativa atraente para o desenvolvimento de APIs, oferecendo tanto flexibilidade quanto desempenho aprimorado.
-
-
